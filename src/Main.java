@@ -2,17 +2,17 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        byte apple = 5;
+        byte apple = 127;
         System.out.println(apple);
-        short cows = 1200;
+        short cows = 32000;
         System.out.println(cows);
-        int road = 120000;
+        int road = 2120000000;
         System.out.println(road);
-        long money = 58000123456L;
+        long money = 5800012345612331L;
         System.out.println(money);
-        float sm = 2.42f;
+        float sm = 2.4212333f;
         System.out.println(sm);
-        double km = 2.424242;
+        double km = 1.1234567891123456;
         System.out.println(km);
         float a = 27.12f;
         System.out.println(a);
